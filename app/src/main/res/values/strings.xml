@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tp3Lab3MOVILES</string>
+    <string name="ingrese_su_dni">Ingrese su DNI</string>
+    <string name="ingrese_su_nombre">Ingrese su Nombre</string>
+    <string name="ingrese_su_apellido">Ingrese su Apellido</string>
+    <string name="ingrese_su_mail">Ingrese su Mail</string>
+    <string name="ingrese_su_clave">Ingrese su Clave</string>
+    <string name="login">Login</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="guardar">Guardar</string>
+    <string name="tomar_foto">Tomar Foto</string>
+</resources>
